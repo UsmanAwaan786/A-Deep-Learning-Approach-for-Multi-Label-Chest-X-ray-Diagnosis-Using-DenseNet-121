@@ -31,7 +31,7 @@ pip install tensorflow keras pandas numpy matplotlib
 
 ## Dataset
 
-The dataset used for training the model is the NIH Chest X-ray dataset. It contains 10,000 chest X-ray images, each labeled with one or more of 14 distinct thoracic pathologies. The dataset can be downloaded from the following link: [NIH Chest X-ray dataset](https://nihcc.app.box.com/v/ChestXray-NIHCC).
+The dataset used for training the model is the NIH Chest X-ray dataset. It contains 112,120 chest X-ray images, each labeled with one or more of 14 distinct thoracic pathologies. The dataset can be downloaded from the following link: [NIH Chest X-ray dataset](https://nihcc.app.box.com/v/ChestXray-NIHCC).
 
 ## Model Training
 
