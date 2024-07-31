@@ -9,10 +9,7 @@ This repository contains the code and resources for training a DenseNet-121 mode
 - [Dataset](#dataset)
 - [Model Training](#model-training)
 - [Results](#results)
-- [Model Saving](#model-saving)
-- [Usage](#usage)
 - [Contributing](#contributing)
-- [License](#license)
 
 ## Project Overview
 
